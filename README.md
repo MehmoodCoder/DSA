@@ -6,6 +6,7 @@ Github repository for DSA on LeetCode to improve programming logics.
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/MehmoodCoder/DSA/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/MehmoodCoder/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/MehmoodCoder/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/MehmoodCoder/DSA/tree/master/1512-number-of-good-pairs) |
@@ -21,6 +22,7 @@ Github repository for DSA on LeetCode to improve programming logics.
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/MehmoodCoder/DSA/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/MehmoodCoder/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
