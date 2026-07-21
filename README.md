@@ -6,6 +6,7 @@ Github repository for DSA on LeetCode to improve programming logics.
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/MehmoodCoder/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/MehmoodCoder/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/MehmoodCoder/DSA/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/MehmoodCoder/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -26,6 +27,7 @@ Github repository for DSA on LeetCode to improve programming logics.
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/MehmoodCoder/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/MehmoodCoder/DSA/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/MehmoodCoder/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -39,6 +41,7 @@ Github repository for DSA on LeetCode to improve programming logics.
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/MehmoodCoder/DSA/tree/master/0189-rotate-array) |
 | [1512-number-of-good-pairs](https://github.com/MehmoodCoder/DSA/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
