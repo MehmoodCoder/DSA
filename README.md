@@ -31,6 +31,7 @@ Github repository for DSA on LeetCode to improve programming logics.
 | [0189-rotate-array](https://github.com/MehmoodCoder/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/MehmoodCoder/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/MehmoodCoder/DSA/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/MehmoodCoder/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/MehmoodCoder/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/MehmoodCoder/DSA/tree/master/1768-merge-strings-alternately) |
 ## Sorting
@@ -59,6 +60,7 @@ Github repository for DSA on LeetCode to improve programming logics.
 | ------- |
 | [0242-valid-anagram](https://github.com/MehmoodCoder/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/MehmoodCoder/DSA/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/MehmoodCoder/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/MehmoodCoder/DSA/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/MehmoodCoder/DSA/tree/master/0771-jewels-and-stones) |
 | [1768-merge-strings-alternately](https://github.com/MehmoodCoder/DSA/tree/master/1768-merge-strings-alternately) |
