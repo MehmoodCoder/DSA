@@ -1,6 +1,22 @@
 # DSA
 Github repository for DSA on LeetCode to improve programming logics.
 
+---
+
+# 📈 LeetCode Analytics
+
+<p align="center">
+  <a href="https://leetcode.com/u/Mehmood_Hassan/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/Mehmood_Hassan?theme=dark&ext=activity" height="280em" alt="LeetCode Activity" />
+  </a>
+    &ensp;&ensp;
+  <a href="https://leetcode.com/u/Mehmood_Hassan/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/Mehmood_Hassan?theme=dark&ext=heatmap" height="280em" alt="LeetCode Heatmap" />
+  </a>
+</p>
+
+---
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
