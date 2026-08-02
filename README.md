@@ -59,6 +59,7 @@ Github repository for DSA on LeetCode to improve programming logics.
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/MehmoodCoder/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/MehmoodCoder/DSA/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/MehmoodCoder/DSA/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/MehmoodCoder/DSA/tree/master/1512-number-of-good-pairs) |
@@ -76,6 +77,7 @@ Github repository for DSA on LeetCode to improve programming logics.
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/MehmoodCoder/DSA/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/MehmoodCoder/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/MehmoodCoder/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/MehmoodCoder/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MehmoodCoder/DSA/tree/master/0345-reverse-vowels-of-a-string) |
