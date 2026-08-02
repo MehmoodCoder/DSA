@@ -108,3 +108,44 @@ If you spot any bugs, edge cases, or areas for improvement, I'd love to hear you
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/MehmoodCoder/DSA/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
+
+---
+
+## 👤 Author
+
+**MehmoodCoder**
+
+- 🔗 GitHub: [https://github.com/MehmoodCoder](https://github.com/MehmoodCoder)
+- 🌐 Portfolio: [My Portfolio Link](https://mh56-portfolio.vercel.app)
+
+---
+
+## 📄 License
+
+This project is open source and available under the **MIT License**.
+
+---
+
+## 📝 Changelog
+
+### v1.0.0 (Initial Release - Core Foundation)
+- 🚀 **Topic Tracking:** Added core solutions for Array, String, and Hash Map pattern problems.
+- 💡 **Notion Integration:** Linked live DSA Dashboard for detailed problem breakdowns, patterns, and visual explanations.
+- ⚡ **Optimization Focus:** Included time and space complexity ($O(N)$ / $O(1)$) analysis for each solution.
+- 🛡️ **Edge Cases & Mistakes:** Documented common traps and failure cases to avoid logic bugs.
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
+
+---
+
+### *Happy Coding without Chai ! ☕*
