@@ -1,5 +1,18 @@
 # DSA
-Github repository for DSA on LeetCode to improve programming logics.
+
+## 🎯 LeetCode DSA Solutions & Logic Building 🚀
+
+> 🧠 **Goal:** Leveling up core programming logic, pattern recognition, and problem-solving skills through LeetCode.
+
+---
+
+### 🌟 Highlights & Features
+
+* 💻 **Clean & Optimized Code:** High-performance, production-ready solutions.
+* ⚡ **Complexity Analysis:** Detailed Time $O(N)$ & Space $O(1)$ breakdown for every problem.
+* 🛡️ **Edge Case Traps:** Documented common mistakes & tricky edge cases to avoid logic bugs.
+* 📝 **Live Notion Integration:** Connected with interactive visual notes, diagrams & mindmaps.
+* 🔁 **Pattern Recognition:** Categorized by core DSA patterns (Two Pointers, Hash Maps, Sliding Window, etc.).
 
 ---
 
