@@ -17,6 +17,23 @@ Github repository for DSA on LeetCode to improve programming logics.
 
 ---
 
+## 📝 Notes & Documentation
+
+If you are having trouble understanding any code or need detailed explanations, feel free to check out my organized DSA notes:
+
+* 📚 **Live DSA Dashboard:** [View My DSA Notes](https://achieved-character-6cd.notion.site/My-DSA-Dashboard-37883766f85b808cbad3d173df389575?source=copy_link)
+
+---
+
+## 💡 Feedback & Improvements
+
+If you spot any bugs, edge cases, or areas for improvement, I'd love to hear your feedback!
+
+* 🌐 **Social Links:** You can find all my social profiles on my GitHub main page: [@MehmoodCoder](https://github.com/MehmoodCoder)
+* 💬 **WhatsApp:** Reach out directly at [+92 333 4095340](https://wa.me/923334095340)
+
+---
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
