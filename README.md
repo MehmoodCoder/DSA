@@ -116,12 +116,14 @@ If you spot any bugs, edge cases, or areas for improvement, I'd love to hear you
 | [0412-fizz-buzz](https://github.com/MehmoodCoder/DSA/tree/master/0412-fizz-buzz) |
 | [0459-repeated-substring-pattern](https://github.com/MehmoodCoder/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0771-jewels-and-stones](https://github.com/MehmoodCoder/DSA/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/MehmoodCoder/DSA/tree/master/0796-rotate-string) |
 | [1768-merge-strings-alternately](https://github.com/MehmoodCoder/DSA/tree/master/1768-merge-strings-alternately) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/MehmoodCoder/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## String Matching
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/MehmoodCoder/DSA/tree/master/0459-repeated-substring-pattern) |
+| [0796-rotate-string](https://github.com/MehmoodCoder/DSA/tree/master/0796-rotate-string) |
 ## Dynamic Programming
 |  |
 | ------- |
